@@ -5,7 +5,7 @@ const ItemDetail = () => {
   return (
     <div>
         <h1>Item {id}</h1>
-        <p>Description of Item {id}</p>
+        <p>Description for Item {id}</p>
     </div>
   )
 }
